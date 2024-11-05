@@ -15,34 +15,34 @@ e fui obrigado a enfeitar meu git. <br>
 
 
 
-### hello world 
+## Ola mundo 
 
-- [x] at python 🐍
+- [x] em python 🐍
 
 ```python
-print("hello world !!")
+print("Olá mundo !!")
 ```
-- [x] at java ☕
+- [x] em java ☕
 
 ```java
 
 package hello world;
 public class hello world {
     public static void main(String[] Args) {
-        System.out.println("hello world :(");
+        System.out.println("Olá mundo :(");
     }
 }
 ```
-> this is very hard<br>
+> 😢<br>
 
-  - [x] at html 🗒️
+  - [x] em html 🗒️
 
 ```html
 <!DOCTYPE html>
 
 <html>
     <body>
-        <p>hello world web :)</p>
+        <p>Olá mundo :)</p>
     </body>
 </html>
 ```
