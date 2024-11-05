@@ -7,9 +7,8 @@ estudo no ifce campus maranguape, <br>
 e fui obrigado a enfeitar meu git. <br>
 
 #### curiosidades <br>
-- **gosto de**
-- jogar xadrez ♟️
-- jogar tenis de mesa (tá mais pra ping pong) 🎾
+- jogo xadrez ♟️
+- jogo tenis de mesa (tá mais pra ping pong) 🎾
 - 
   [site bom pra xadrez](https://www.chess.com/)<br>
 
