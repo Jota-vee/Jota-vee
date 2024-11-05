@@ -11,7 +11,7 @@ meu nome é João Victor, eu tenho 17 anos, estudo no ifce campus maranguape, e 
 - 🌱 Atualmente aprendendo: java, html
 
 **imagens de dor e sofrimento**<br>
-<img src = "https://i.pinimg.com/474x/8e/81/a2/8e81a2dea4ee87cfccf724570f1772ed.jpg" width = "100" hidgth = "300">
+<img src = "https://i.pinimg.com/474x/8e/81/a2/8e81a2dea4ee87cfccf724570f1772ed.jpg" width = "300" hidgth = "300">
 
 [![meu instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.instagram.com/jota.vee._/)
 [![meu reddit](https://img.shields.io/badge/Reddit-white?logo=reddit)](https://www.instagram.com/jota.vee._/)
