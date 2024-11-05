@@ -7,10 +7,8 @@ estudo no ifce campus maranguape, <br>
 e fui obrigado a enfeitar meu git. <br>
 
 #### curiosidades <br>
-- jogo xadrez ♟️
+- jogo xadrez [♟️](https://www.chess.com/)<br>
 - jogo tenis de mesa (tá mais pra ping pong) 🎾
-- 
-  [site bom pra xadrez](https://www.chess.com/)<br>
 
 look i here<br>
 ![i](https://i.pinimg.com/474x/8e/81/a2/8e81a2dea4ee87cfccf724570f1772ed.jpg)
@@ -48,4 +46,3 @@ public class hello world {
     </body>
 </html>
 ```
-[♟️] = "https://www.chess.com/"
