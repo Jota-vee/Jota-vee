@@ -6,11 +6,11 @@ eu tenho 17 anos, <br>
 estudo no ifce campus maranguape, <br>
 e fui obrigado a enfeitar meu git. <br>
 
-- jogo xadrez [♟️](https://www.chess.com/)<br>
-- jogo tenis de mesa (tá mais pra ping pong) 🎾
-- 📍 Localização: São Paulo, Brasil
-- 💻 Tecnologias favoritas: React, Node.js, Docker
-- 🌱 Atualmente aprendendo: Kubernetes, Machine Learning
+- [♟️](https://www.chess.com/) jogo xadrez<br>
+- 🎾 jogo tenis de mesa (tá mais pra ping pong) 🎾
+- 📍 Localização: Cêara, Brasil
+- 💻 Tecnologia favorita: Chatgpt
+- 🌱 Atualmente aprendendo: java, html
 
 **imagens de dor e sofrimento**<br>
 ![i](https://i.pinimg.com/474x/8e/81/a2/8e81a2dea4ee87cfccf724570f1772ed.jpg)
