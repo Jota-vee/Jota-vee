@@ -1,8 +1,7 @@
 ---
 ### Sobre Mim
 
-meu nome é **João Victor**, eu tenho 17 anos, <br>
-estudo no ifce campus maranguape, <br>
+meu nome é **João Victor**, eu tenho 17 anos, estudo no ifce campus maranguape, <br>
 e fui obrigado a enfeitar meu git. <br>
 
 - [♟️](https://www.chess.com/) jogo xadrez<br>
