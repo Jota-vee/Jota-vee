@@ -17,6 +17,7 @@ e fui obrigado a enfeitar meu git. <br>
 [![meu reddit](https://img.shields.io/badge/Reddit-white?logo=reddit)](https://www.instagram.com/jota.vee._/)
 [![meu youtube](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://www.instagram.com/jota.vee._/)
 [![meu pinterest](https://img.shields.io/badge/Pinterest-red?logo=pinterest)](https://www.instagram.com/jota.vee._/)
+[![meu twitch](https://img.shields.io/badge/twitch-white?logo=twitch)](https://www.instagram.com/jota.vee._/)
 
 
 <h3 align="left">linguagens e banco de dados:</h3>
