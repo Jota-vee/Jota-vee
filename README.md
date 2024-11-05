@@ -46,7 +46,9 @@ public class hello world {
     </body>
 </html>
 ```
-[![Texto alternativo da imagem](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.instagram.com/jota.vee._/)
+
+[![meu instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.instagram.com/jota.vee._/)
+[![meu reddit](https://img.shields.io/badge/Reddit-white?logo=reddit)](https://www.instagram.com/jota.vee._/)
 
 
 <h3 align="left">linguagens e banco de dados:</h3>
