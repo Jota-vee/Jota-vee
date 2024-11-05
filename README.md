@@ -10,10 +10,8 @@ e fui obrigado a enfeitar meu git. <br>
 - 💻 Tecnologia favorita: [Chatgpt](https://chatgpt.com/)
 - 🌱 Atualmente aprendendo: java, html
 
-<img src = "https://i.pinimg.com/474x/8e/81/a2/8e81a2dea4ee87cfccf724570f1772ed.jpg" weith = "300" heigth = "300">
 **imagens de dor e sofrimento**<br>
-![eu](https://i.pinimg.com/474x/8e/81/a2/8e81a2dea4ee87cfccf724570f1772ed.jpg)
-
+<img src = "https://i.pinimg.com/474x/8e/81/a2/8e81a2dea4ee87cfccf724570f1772ed.jpg" weith = "300" heigth = "200">
 
 
 ## Ola mundo 
