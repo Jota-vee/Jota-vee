@@ -46,4 +46,4 @@ public class hello world {
     </body>
 </html>
 ```
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/seuusuario)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.instagram.com/seuusuario)
