@@ -13,7 +13,7 @@ e fui obrigado a enfeitar meu git. <br>
 **imagens de dor e sofrimento**<br>
 <img src = "https://i.pinimg.com/474x/8e/81/a2/8e81a2dea4ee87cfccf724570f1772ed.jpg" weith = "300" heigth = "300">
 
-## Ola mundo 
+## Olá mundo 
 
 - [x] em python 🐍
 
