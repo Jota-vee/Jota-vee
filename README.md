@@ -33,4 +33,7 @@ no violão sei acordes basicos, no xadrez sou intermediario mas tô a tempos sem
 
 
 <img src = "https://terrabrasilnoticias.com/wp-content/uploads/2023/12/httpsterrabrasil.nyc3_.cdn_.digitaloceanspaces.com202306041F05D0-F268-4892-8E49-291153770993.jpeg" width = "300">
-companheiro se você chegou até o final, você acaba de ganhar R$1.000.000 de real. é apenas clicar aqui [💸](https://tigrinho.io/)
+companheiro se você chegou até o final, você acaba de ganhar R$1.000.000 de real.
+<nav>
+  <a href = "https://tigrinho.io/">💸</a>
+</nav>
