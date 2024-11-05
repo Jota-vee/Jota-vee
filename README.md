@@ -6,7 +6,7 @@ eu tenho 17 anos, <br>
 estudo no ifce campus maranguape, <br>
 e fui obrigado a enfeitar meu git. <br>
 
-#### curiosidades <br>
+### curiosidades <br>
 - jogo xadrez [♟️](https://www.chess.com/)<br>
 - jogo tenis de mesa (tá mais pra ping pong) 🎾
 
