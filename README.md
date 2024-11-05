@@ -13,38 +13,6 @@ e fui obrigado a enfeitar meu git. <br>
 **imagens de dor e sofrimento**<br>
 <img src = "https://i.pinimg.com/474x/8e/81/a2/8e81a2dea4ee87cfccf724570f1772ed.jpg" weith = "300" heigth = "300">
 
-## Olá mundo 
-
-- [x] em python 🐍
-
-```python
-print("Olá mundo !!")
-```
-- [x] em java ☕
-
-```java
-
-package hello world;
-public class hello world {
-    public static void main(String[] Args) {
-        System.out.println("Olá mundo :(");
-    }
-}
-```
-> 😢<br>
-
-  - [x] em html 🗒️
-
-```html
-<!DOCTYPE html>
-
-<html>
-    <body>
-        <p>Olá mundo :)</p>
-    </body>
-</html>
-```
-
 [![meu instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.instagram.com/jota.vee._/)
 [![meu reddit](https://img.shields.io/badge/Reddit-white?logo=reddit)](https://www.instagram.com/jota.vee._/)
 [![meu youtube](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://www.instagram.com/jota.vee._/)
