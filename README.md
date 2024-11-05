@@ -1,8 +1,8 @@
 ---
 ### Sobre Mim
 
-meu nome é **João Victor**, eu tenho 17 anos, estudo no ifce campus maranguape, <br>
-e fui obrigado a enfeitar meu git. <br>
+meu nome é João Victor, eu tenho 17 anos, estudo no ifce campus maranguape, e fui obrigado a fazer e enfeitar meu github. <br>
+
 
 - [♟️](https://www.chess.com/) jogo xadrez<br>
 - 🎾 jogo tenis de mesa (tá mais pra ping pong) 
@@ -11,7 +11,7 @@ e fui obrigado a enfeitar meu git. <br>
 - 🌱 Atualmente aprendendo: java, html
 
 **imagens de dor e sofrimento**<br>
-<img src = "https://i.pinimg.com/474x/8e/81/a2/8e81a2dea4ee87cfccf724570f1772ed.jpg" weith = "300" heigth = "300">
+<img src = "https://i.pinimg.com/474x/8e/81/a2/8e81a2dea4ee87cfccf724570f1772ed.jpg" weith = "100" heigth = "300">
 
 [![meu instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.instagram.com/jota.vee._/)
 [![meu reddit](https://img.shields.io/badge/Reddit-white?logo=reddit)](https://www.instagram.com/jota.vee._/)
