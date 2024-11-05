@@ -25,5 +25,4 @@ no violão sei acordes basicos, no xadrez sou intermediario mas tô a tempos sem
 [![meu twitch](https://img.shields.io/badge/twitch-white?logo=twitch)](https://www.instagram.com/jota.vee._/)
 
 
-<h6 align="left">linguagens e banco de dados:</h6>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> </a> </p>
