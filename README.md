@@ -11,7 +11,7 @@ e fui obrigado a enfeitar meu git. <br>
 - 🌱 Atualmente aprendendo: java, html
 
 **imagens de dor e sofrimento**<br>
-![i](https://i.pinimg.com/474x/8e/81/a2/8e81a2dea4ee87cfccf724570f1772ed.jpg)
+![eu](https://i.pinimg.com/474x/8e/81/a2/8e81a2dea4ee87cfccf724570f1772ed.jpg)
 
 
 
