@@ -7,7 +7,7 @@ estudo no ifce campus maranguape, <br>
 e fui obrigado a enfeitar meu git. <br>
 
 - [♟️](https://www.chess.com/) jogo xadrez<br>
-- 🎾 jogo tenis de mesa (tá mais pra ping pong) 🎾
+- 🎾 jogo tenis de mesa (tá mais pra ping pong) 
 - 📍 Localização: Cêara, Brasil
 - 💻 Tecnologia favorita: Chatgpt
 - 🌱 Atualmente aprendendo: java, html
