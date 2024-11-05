@@ -7,7 +7,7 @@ e fui obrigado a enfeitar meu git. <br>
 - [♟️](https://www.chess.com/) jogo xadrez<br>
 - 🎾 jogo tenis de mesa (tá mais pra ping pong) 
 - 📍 Localização: Cêara, Brasil
-- 💻 Tecnologia favorita: Chatgpt
+- 💻 Tecnologia favorita: [Chatgpt](https://chatgpt.com/)
 - 🌱 Atualmente aprendendo: java, html
 
 **imagens de dor e sofrimento**<br>
