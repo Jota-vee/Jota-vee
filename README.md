@@ -47,3 +47,4 @@ public class hello world {
 </html>
 ```
 [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.instagram.com/seuusuario)
+[![Instagram](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://www.instagram.com/seuusuario)
