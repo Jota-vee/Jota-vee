@@ -10,7 +10,8 @@ meu nome é João Victor, eu tenho 17 anos, estudo no ifce campus maranguape, e 
 - companheiro do chatgpt 💻
 - cowboy bebop é muito bom 🤠
 - escute goodnight julia 🎵
-- leia berserk (opcional) 📘 
+- leia berserk (opcional) 📘
+- tá ai meu email, ... ✉️ 
 
 ## Estatísticas do github
 
