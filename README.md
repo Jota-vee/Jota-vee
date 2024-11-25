@@ -12,8 +12,6 @@ no violão sei acordes basicos, no xadrez sou intermediario mas tô a tempos sem
 - [💻](https://chatgpt.com/) Tecnologia favorita: Chatgpt.
 - 🌱 Atualmente aprendendo: java, html, python.
 
----
-
 ## Estatísticas do github
 
 ![](https://github-readme-stats.vercel.app/api?username=Jota-vee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
