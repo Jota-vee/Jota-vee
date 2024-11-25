@@ -1,4 +1,3 @@
----
 ## Sobre Mim
 
 meu nome é João Victor, eu tenho 17 anos, estudo no ifce campus maranguape, e fui obrigado a fazer e enfeitar meu github. <br>
