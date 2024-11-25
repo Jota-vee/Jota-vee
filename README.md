@@ -1,6 +1,6 @@
 ## Sobre Mim
 
-meu nome é João victor, eu tenho 17 anos, estudo no ifce campus maranguape, e fui obrigado a enfeitar meu github. <br>
+meu nome é João Victor, eu tenho 17 anos, estudo no ifce campus maranguape, e fui obrigado a enfeitar meu github. <br>
 
 - programador super junior 🧑‍💻
 - ruim que só no violão 🎸
