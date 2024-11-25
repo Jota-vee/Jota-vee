@@ -19,14 +19,11 @@ no violão sei acordes basicos, no xadrez sou intermediario mas tô a tempos sem
 <img src = "https://i.pinimg.com/474x/8e/81/a2/8e81a2dea4ee87cfccf724570f1772ed.jpg" width = "300">
 ### estatisticas do github
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jota-vee&show_icons=true&hide_title=true&theme=dark)
-
 ![](https://github-readme-stats.vercel.app/api?username=Jota-vee&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jota-vee&theme=radical&hide_border=false)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jota-vee&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=Jota-vee&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ### linguagens e database
