@@ -11,7 +11,7 @@ no violão sei acordes basicos, no xadrez sou intermediario mas tô a tempos sem
 - 🎾 Jogo tenis de mesa (tá mais pra ping pong)
 - 🎸 Sei o basico do basico de violão
 - 📍  Localização: Cêara, Brasil
-- 💻 Tecnologia favorita: Chatgpt[.](https://chatgpt.com/)
+- [💻](https://chatgpt.com/) Tecnologia favorita: Chatgpt.
 - 🌱 Atualmente aprendendo: java, html, python
 
 
