@@ -1,5 +1,5 @@
 ## Sobre Mim
-- - a
+ - a
 meu nome é João Victor, eu tenho 17 anos, estudo no ifce campus maranguape, e fui obrigado a fazer e enfeitar meu github. <br>
 sei o basico de programação em python e java, estou aprendendo a criar sites, por enquanto apenas estudando html. <br>
 no violão sei acordes basicos, no xadrez sou intermediario mas tô a tempos sem estudar nada, jogo no chess.com e meu nick é jota-vee.<br>
