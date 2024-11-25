@@ -1,20 +1,16 @@
----
-
 ## Sobre Mim
 
 meu nome é João Victor, eu tenho 17 anos, estudo no ifce campus maranguape, e fui obrigado a fazer e enfeitar meu github. <br>
 sei o basico de programação em python e java, estou aprendendo a criar sites, por enquanto apenas estudando html. <br>
 no violão sei acordes basicos, no xadrez sou intermediario mas tô a tempos sem estudar nada, jogo no chess.com e meu nick é jota-vee.<br>
 
-- [♟️](https://www.chess.com/) Jogo xadrez<br>
+- [♟️](https://www.chess.com/) Jogo xadrez
 - 🎾 Jogo tenis de mesa (tá mais pra ping pong)
 - 🎸 Sei o basico do basico de violão
 - 📍  Localização: Cêara, Brasil
 - [💻](https://chatgpt.com/) Tecnologia favorita: Chatgpt.
 - 🌱 Atualmente aprendendo: java, html, python.
 
----
----
 
 ## Estatísticas do github
 
@@ -24,7 +20,6 @@ no violão sei acordes basicos, no xadrez sou intermediario mas tô a tempos sem
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jota-vee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 ---
 
 ## linguagens e database
