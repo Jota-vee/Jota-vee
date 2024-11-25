@@ -21,12 +21,12 @@ no violão sei acordes basicos, no xadrez sou intermediario mas tô a tempos sem
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jota-vee&show_icons=true&hide_title=true&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api?username=VitoriaMariadev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Jota-vee&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VitoriaMariadev&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jota-vee&theme=radical&hide_border=false)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaMariadev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=VitoriaMariadev&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jota-vee&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=Jota-vee&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ### linguagens e database
