@@ -1,3 +1,4 @@
+---
 ## Sobre Mim
 
 meu nome é João Victor, eu tenho 17 anos, estudo no ifce campus maranguape, e fui obrigado a fazer e enfeitar meu github. <br>
@@ -11,6 +12,7 @@ no violão sei acordes basicos, no xadrez sou intermediario mas tô a tempos sem
 - [💻](https://chatgpt.com/) Tecnologia favorita: Chatgpt.
 - 🌱 Atualmente aprendendo: java, html, python.
 
+---
 
 ## Estatísticas do github
 
