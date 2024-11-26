@@ -34,3 +34,18 @@ meu nome é João Victor, eu tenho 17 anos, estudo no ifce campus maranguape, e 
 [![meu twitch](https://img.shields.io/badge/twitch-white?logo=twitch)](https://tigrinho.io/)
 
 ---
+
+<div>
+  <ul>
+    <li type="circle">programador super junior 🧑‍💻</li>
+    <li type="circle">ruim que só no violão 🎸</li>
+    <li type="circle">xadrez mais ou menos ♟️</li>
+    <li type="circle">moro no fim do mundo 🌎</li>
+    <li type="circle">aposentado do ping pong 🏓</li>
+    <li type="circle">companheiro do chatgpt 💻</li>
+    <li type="circle">cowboy bebop é muito bom 🤠</li>
+    <li type="circle">escute goodnight julia 🎵</li>
+    <li type="circle">leia berserk (opcional) 📘</li>
+    <li type="circle">tá ai meu email, ... ✉️</li>
+  </ul>
+</div>
