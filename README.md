@@ -23,6 +23,8 @@ meu nome é João Victor, eu tenho 17 anos, estudo no ifce campus maranguape, e 
 
 ## Estatísticas do github
 
+![Followers](https://img.shields.io/github/followers/seu-usuario?color=purple&style=for-the-badge)
+
 ![](https://github-readme-stats.vercel.app/api?username=Jota-vee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jota-vee&theme=tokyonight&hide_border=false)
