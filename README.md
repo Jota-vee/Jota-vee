@@ -7,7 +7,7 @@ meu nome é João Victor, eu tenho 17 anos, estudo no ifce campus maranguape, e 
     <li type="circle">programador super junior 🧑‍💻</li>
     <li type="circle">ruim que só no violão 🎸</li>
     <li type="circle">desenhos piores que standup feminino 🖼️</li>
-    <li type="circle">calidtenico aposentado 🐔</li>
+    <li type="circle">calistenico aposentado 🐔</li>
     <li type="circle">xadrez mais ou menos<a href="https://www.chess.com/member/jota_vee">♟️</a></li>
     <li type="circle">moro no fim do mundo 🌎</li>
     <li type="circle">aposentado do ping pong 🏓</li>
