@@ -23,7 +23,7 @@ meu nome é João Victor, eu tenho 17 anos, estudo no ifce campus maranguape, e 
 
 ## Estatísticas do github
 
-[![meu reddit](https://img.shields.io/badge/Reddit-white?logo=github)](https://tigrinho.io/)
+[![meu reddit](https://img.shields.io/badge/Github-black?logo=github)](https://tigrinho.io/)
 
 ![](https://github-readme-stats.vercel.app/api?username=Jota-vee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 <br/>
