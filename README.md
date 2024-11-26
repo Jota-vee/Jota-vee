@@ -13,7 +13,7 @@ meu nome é João Victor, eu tenho 17 anos, estudo no ifce campus maranguape, e 
     <li type="circle">aposentado do ping pong 🏓</li>
     <li type="circle">companheiro do chatgpt 💻</li>
     <li type="circle">cowboy bebop é muito bom 🤠</li>
-    <li type="circle">escute goodnight julia 🎵</li>
+    <li type="circle">escute goodnight julia <a href="https://m.youtube.com/watch?v=wKuKfEM1gdo&pp=ygUPZ29vZG5pZ2h0IGp1bGlh">🎵</a></li>
     <li type="circle">leia berserk (opcional) 📘</li>
     <li type="circle">m.victor@aluno.ifce.edu.br ✉️</li>
   </ul>
