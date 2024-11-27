@@ -39,6 +39,6 @@ meu nome é João Victor, eu tenho 17 anos, estudo no ifce campus maranguape, e 
 
 ![](https://img.shields.io/badge/Instagram-purple?logo=instagram)
 ![](https://img.shields.io/badge/Reddit-white?logo=reddit)
-![](https://img.shields.io/badge/Youtube-red?logo=youtube)]
+![](https://img.shields.io/badge/Youtube-red?logo=youtube)
 ![](https://img.shields.io/badge/Pinterest-red?logo=pinterest)
 ![](https://img.shields.io/badge/twitch-white?logo=twitch)
