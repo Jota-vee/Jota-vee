@@ -37,8 +37,8 @@ meu nome é João Victor, eu tenho 17 anos, estudo no ifce campus maranguape, e 
 
 ---
 
-[![meu instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://tigrinho.io/)
-[![meu reddit](https://img.shields.io/badge/Reddit-white?logo=reddit)](https://tigrinho.io/)
-[![meu youtube](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://tigrinho.io/)
-[![meu pinterest](https://img.shields.io/badge/Pinterest-red?logo=pinterest)](https://tigrinho.io/)
-[![meu twitch](https://img.shields.io/badge/twitch-white?logo=twitch)](https://tigrinho.io/)
+![](https://img.shields.io/badge/Instagram-purple?logo=instagram)
+![](https://img.shields.io/badge/Reddit-white?logo=reddit)
+![](https://img.shields.io/badge/Youtube-red?logo=youtube)]
+![](https://img.shields.io/badge/Pinterest-red?logo=pinterest)
+![](https://img.shields.io/badge/twitch-white?logo=twitch)
