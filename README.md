@@ -34,7 +34,7 @@ meu nome é João Victor, eu tenho 17 anos, estudo no ifce campus maranguape, e 
 
 ## linguagens 
 
-![](https://img.shields.io/badge/Python-blue?logo=Python) 
+![](https://img.shields.io/badge/Python-black?logo=python) 
 ![](https://img.shields.io/badge/Java-red?logo=java) 
 ![](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B) 
 ![](https://img.shields.io/badge/Shell-black?logo=linux) 
