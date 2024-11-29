@@ -22,16 +22,19 @@ meu nome é João Victor, eu tenho 17 anos, estudo no ifce campus maranguape, e 
 ---
 
 ## Estatísticas do github
-![](https://img.shields.io/badge/Github-black?logo=github)
 
-![](https://github-readme-stats.vercel.app/api?username=Jota-vee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jota-vee&theme=tokyonight&hide_border=false)
+<br/>
+![](https://github-readme-stats.vercel.app/api?username=Jota-vee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jota-vee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-## linguagens 
+## linguagens e ferramentas
+![](https://img.shields.io/badge/Github-black?logo=github)
+![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4?logo=visualstudiocode)
+![](https://img.shields.io/badge/Eclipse-2c2255?logo=eclipse)
+
 ![](https://img.shields.io/badge/Python-yellow?logo=python) 
 ![](https://img.shields.io/badge/Java-red?logo=java) 
 ![](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B) 
