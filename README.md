@@ -23,7 +23,6 @@ meu nome é João Victor, eu tenho 17 anos, estudo no ifce campus maranguape, e 
 
 ## Estatísticas do github
 ![](https://img.shields.io/badge/Github-black?logo=github)
-
 ![](https://github-readme-stats.vercel.app/api?username=Jota-vee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jota-vee&theme=tokyonight&hide_border=false)
@@ -31,9 +30,7 @@ meu nome é João Victor, eu tenho 17 anos, estudo no ifce campus maranguape, e 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jota-vee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
 ## linguagens 
-
 ![](https://img.shields.io/badge/Python-yellow?logo=python) 
 ![](https://img.shields.io/badge/Java-red?logo=java) 
 ![](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B) 
@@ -42,11 +39,3 @@ meu nome é João Victor, eu tenho 17 anos, estudo no ifce campus maranguape, e 
 ![](https://img.shields.io/badge/CSS-blue?logo=css3) 
 ![](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 
-
----
-
-![](https://img.shields.io/badge/Instagram-purple?logo=instagram)
-![](https://img.shields.io/badge/Reddit-white?logo=reddit)
-![](https://img.shields.io/badge/Youtube-red?logo=youtube)
-![](https://img.shields.io/badge/Pinterest-red?logo=pinterest)
-![](https://img.shields.io/badge/twitch-white?logo=twitch)
