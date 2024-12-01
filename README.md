@@ -33,7 +33,7 @@ meu nome é João Victor, eu tenho 17 anos, estudo no ifce campus maranguape, e 
 ## linguagens e ferramentas
 ![](https://img.shields.io/badge/Arduino_IDE-green?logo=arduino)
 ![](https://img.shields.io/badge/Github-black?logo=github)
-![](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode)
+![](https://img.shields.io/badge/VSCode-blue?logo=visual%20studio%20code)
 ![](https://img.shields.io/badge/Eclipse-2c2255?logo=eclipse)
 
 ![](https://img.shields.io/badge/Python-yellow?logo=python) 
